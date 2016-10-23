@@ -1,0 +1,14 @@
+{
+  "name": "CX19",
+  "version": "0.0.1",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "4.10.2",
+    "socket.io": "1.2.0"
+  }
+}
